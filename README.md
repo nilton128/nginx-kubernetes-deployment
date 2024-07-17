@@ -28,8 +28,6 @@ Clone este repositório:
 
 **kubectl apply -f nginx-deployment.yaml**
 
-**kubectl apply -f nginx-replicaset.yaml**
-
 **kubectl apply -f nginx-service.yaml**
 
 -Verifique os pods e services:
