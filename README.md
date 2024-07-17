@@ -4,6 +4,7 @@ Configurações Kubernetes para implantar um servidor Nginx usando Deployment, R
 
 
 Arquivos:
+
 **nginx-deployment.yaml**
 
 Define um Deployment que gerencia 3 réplicas do contêiner Nginx.
