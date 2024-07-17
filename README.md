@@ -1,5 +1,7 @@
 **Nginx Kubernetes Deployment**
+
 Configurações Kubernetes para implantar um servidor Nginx usando Deployment, ReplicaSet e Service.
+
 
 Arquivos:
 nginx-deployment.yaml
